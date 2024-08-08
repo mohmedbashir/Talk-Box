@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "653187266733",
+    "firebase_url": "https://talk-box-7bc47-default-rtdb.firebaseio.com",
+    "project_id": "talk-box-7bc47",
+    "storage_bucket": "talk-box-7bc47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653187266733:android:f0998b6448e0e3eaa5ae24",
+        "android_client_info": {
+          "package_name": "com.example.talk_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653187266733-j09ril9m6h2357g85vnaki4885qnmach.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwsn46eSqstlftDxki_w8mw3p-S8K0Lds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653187266733-j09ril9m6h2357g85vnaki4885qnmach.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "653187266733-lvmpu4h00644jicbmi303k132j32i8gr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.talkBox"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653187266733:android:93a8bf5c99491edaa5ae24",
+        "android_client_info": {
+          "package_name": "com.tBox.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653187266733-j09ril9m6h2357g85vnaki4885qnmach.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwsn46eSqstlftDxki_w8mw3p-S8K0Lds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653187266733-j09ril9m6h2357g85vnaki4885qnmach.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "653187266733-lvmpu4h00644jicbmi303k132j32i8gr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.talkBox"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653187266733:android:94c316c3a0e054e3a5ae24",
+        "android_client_info": {
+          "package_name": "com.talkboxcommunity.talkbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653187266733-j09ril9m6h2357g85vnaki4885qnmach.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwsn46eSqstlftDxki_w8mw3p-S8K0Lds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653187266733-j09ril9m6h2357g85vnaki4885qnmach.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "653187266733-lvmpu4h00644jicbmi303k132j32i8gr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.talkBox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
