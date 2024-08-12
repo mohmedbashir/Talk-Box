@@ -15,7 +15,10 @@ Is a mobile application developed using Flutter and follows the **MVC** architec
 ## Screenshots
 <img width="373" alt="Screenshot 2024-08-12 at 8 44 08 PM" src="https://github.com/user-attachments/assets/9dad2c48-a0dc-487a-ba2e-b3810063d674">
 
+<p align="center">
+  <img src="[https://github.com/user-attachments/assets/f5eb6ab0-f263-4f27-bb40-6decf5db6738](https://github.com/user-attachments/assets/9dad2c48-a0dc-487a-ba2e-b3810063d674)" width="100%" />
 
+</p>
 ## Used Dependencies 
 * **GetX**: State management, navigation, and dependency injection.
 * **firebase_auth**: Used for User authentication (email, OAuth providers).
