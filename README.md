@@ -18,7 +18,7 @@ Is a mobile application developed using Flutter and follows the **MVC** architec
 
 ## Screenshots
 <p align="center">
-  <img src="![1-portrait](https://github.com/user-attachments/assets/8963707a-a67b-46ff-be1a-80d95a46f29e)
+  <img src="https://github.com/user-attachments/assets/8963707a-a67b-46ff-be1a-80d95a46f29e
 " width="20%" />
   <img src="https://github.com/user-attachments/assets/b4592e01-bab7-4022-9794-30b16522232d" width="20%" />
   <img src="https://github.com/user-attachments/assets/3ababa26-da49-4283-9fc3-47759202ebd9" width="20%" />
