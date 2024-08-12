@@ -35,8 +35,8 @@ Is a mobile application developed using Flutter and follows the **MVC** architec
   <img src="https://github.com/user-attachments/assets/c2857d0b-6cac-496d-8bd5-2d9a2c2903d3" width="15%" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/55db60c4-c9ea-4e64-a04c-a82d3971397a" width="15%" />
   <img src="https://github.com/user-attachments/assets/7266720c-7356-4901-8da6-9ffe620f2c98" width="15%" />
+  <img src="https://github.com/user-attachments/assets/55db60c4-c9ea-4e64-a04c-a82d3971397a" width="15%" />
 
 </p>
 
