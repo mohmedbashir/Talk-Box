@@ -1,5 +1,6 @@
-![ic_launcher](https://github.com/user-attachments/assets/5fd29826-01bb-402e-9834-2d1c15b1775e)
-# TODO
+
+
+# Talk Box
 
 Is a mobile application developed using Flutter and follows the **MVC** architectural pattern. is A social and mental health app that allows users to connect with psychologists, book appointments, share and interact with stories, add friends, and communicate through text, video, and audio messages. It also includes voice and video calling features.
 
@@ -12,7 +13,7 @@ Is a mobile application developed using Flutter and follows the **MVC** architec
 * **Voice and Video Calls**: Includes features for voice and video calls.
 
 ## Screenshots
-<img width="724" alt="Screenshot 2024-08-12 at 8 30 11 PM" src="https://github.com/user-attachments/assets/72d1055d-cc44-46f7-8555-0206009138ec">
+<img width="373" alt="Screenshot 2024-08-12 at 8 44 08 PM" src="https://github.com/user-attachments/assets/9dad2c48-a0dc-487a-ba2e-b3810063d674">
 
 
 ## Used Dependencies 
