@@ -22,18 +22,23 @@ Is a mobile application developed using Flutter and follows the **MVC** architec
   <img src="https://github.com/user-attachments/assets/5ce263a0-f34e-4778-b6e8-07c64fd8bd22" width="15%" />
 </p>
 <p align="center">
-  <img src="" width="20%" />
-  <img src="" width="20%" />
-  <img src="" width="20%" />
-  <img src="" width="20%"/>
-  <img src="" width="20%" />
+  <img src="https://github.com/user-attachments/assets/7b724a4d-b38c-44e4-906b-4570941438ee" width="15%" />
+  <img src="https://github.com/user-attachments/assets/c6182dbc-98c9-4f9f-9355-8e9619bb9aaf" width="15%" />
+  <img src="https://github.com/user-attachments/assets/670e82fc-e876-41cc-86af-236f5b2c989d" width="15%" />
+  <img src="https://github.com/user-attachments/assets/90d16f35-99dc-4076-b00b-9038dee9f6f2" width="15%"/>
+  <img src="https://github.com/user-attachments/assets/3385f582-1282-4415-a7df-880f4dae54b4" width="15%" />
 </p>
 <p align="center">
-  <img src="" width="20%" />
-  <img src="" width="20%" />
-  <img src="" width="20%" />
-  <img src="" width="20%"/>
-  <img src="" width="20%" />
+  <img src="" width="15%" />
+  <img src="" width="15%" />
+  <img src="" width="15%" />
+  <img src="" width="15%"/>
+  <img src="" width="15%" />
+</p>
+<p align="center">
+  <img src="" width="15%" />
+  <img src="" width="15%" />
+  <img src="" width="15%" />
 </p>
 
 ## Used Dependencies 
