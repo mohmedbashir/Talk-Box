@@ -13,8 +13,7 @@ Is a mobile application developed using Flutter and follows the **MVC** architec
 * **Voice and Video Calls**: Includes features for voice and video calls.
 
 ## Screenshots
-<p align="center">
-  <img src="[https://github.com/user-attachments/assets/f5eb6ab0-f263-4f27-bb40-6decf5db6738](https://github.com/user-attachments/assets/9dad2c48-a0dc-487a-ba2e-b3810063d674)" width="100%" /> /p>
+https://github.com/user-attachments/assets/f5eb6ab0-f263-4f27-bb40-6decf5db6738
 
 ## Used Dependencies 
 * **GetX**: State management, navigation, and dependency injection.
