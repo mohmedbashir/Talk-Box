@@ -12,8 +12,19 @@ Is a mobile application developed using Flutter and follows the **MVC** architec
 * **Social Interaction**: Users can add friends and engage with them through text messages, videos, pictures, and audio.
 * **Voice and Video Calls**: Includes features for voice and video calls.
 
+
+
+
+
 ## Screenshots
-https://github.com/user-attachments/assets/f5eb6ab0-f263-4f27-bb40-6decf5db6738
+<p align="center">
+  <img src="![1-portrait](https://github.com/user-attachments/assets/8963707a-a67b-46ff-be1a-80d95a46f29e)
+" width="20%" />
+  <img src="https://github.com/user-attachments/assets/b4592e01-bab7-4022-9794-30b16522232d" width="20%" />
+  <img src="https://github.com/user-attachments/assets/3ababa26-da49-4283-9fc3-47759202ebd9" width="20%" />
+  <img src="https://github.com/user-attachments/assets/3ababa26-da49-4283-9fc3-47759202ebd9" width="20%" />
+  <img src="https://github.com/user-attachments/assets/3ababa26-da49-4283-9fc3-47759202ebd9" width="20%" />
+</p>
 
 ## Used Dependencies 
 * **GetX**: State management, navigation, and dependency injection.
