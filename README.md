@@ -15,25 +15,25 @@ Is a mobile application developed using Flutter and follows the **MVC** architec
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0d2b5c60-fac4-4c14-9a55-dafa935536a6" width="20%" />
-  <img src="https://github.com/user-attachments/assets/0fc9e738-6fab-4a93-a446-f5d25e607275" width="20%" />
-  <img src="https://github.com/user-attachments/assets/9eef1725-514c-4ac3-b8bc-34b76dd16d99" width="20%" />
-  <img src="https://github.com/user-attachments/assets/bf3926d3-9041-427e-909f-f63fc9f65471" width="20%" />
-  <img src="https://github.com/user-attachments/assets/289e4b5f-8450-4c19-aefd-94d8c7e38a41" width="20%" />
+  <img src="https://github.com/user-attachments/assets/27623ab5-e9e1-4b9e-80f8-ec190099a970" width="15%" />
+  <img src="https://github.com/user-attachments/assets/2cdb7303-2150-4f8b-8852-4dcb50b11c49" width="15%" />
+  <img src="https://github.com/user-attachments/assets/3c5493cd-837e-4b80-a07b-a66a52c0eb93" width="15%" />
+  <img src="https://github.com/user-attachments/assets/21f8b37a-6979-4681-a3b8-6ff89d721c00" width="15%"/>
+  <img src="https://github.com/user-attachments/assets/5ce263a0-f34e-4778-b6e8-07c64fd8bd22" width="15%" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c3ea73dd-6cb3-41f5-89e7-6d0c9e537ba3" width="20%" />
-  <img src="https://github.com/user-attachments/assets/b35cc0f9-e383-4c19-9b1f-bffe56c14c4d" width="20%" />
-  <img src="https://github.com/user-attachments/assets/29da9124-b8a2-473c-b721-85a6eafba13e" width="20%" />
-  <img src="https://github.com/user-attachments/assets/cf30e3d9-9f8a-43b7-a138-0e10706f9fe9" width="20%" />
-  <img src="https://github.com/user-attachments/assets/be85a4b8-7038-4f7b-9702-8cd1d9ebefd7" width="20%" />
+  <img src="" width="20%" />
+  <img src="" width="20%" />
+  <img src="" width="20%" />
+  <img src="" width="20%"/>
+  <img src="" width="20%" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ea90faa3-5844-4e7a-a6b5-9c3765e6b1dc" width="20%" />
-  <img src="https://github.com/user-attachments/assets/33a955a9-0cfb-47e5-8e26-9a908559e2e7" width="20%" />
-  <img src="https://github.com/user-attachments/assets/e2dbf363-a0d1-4fa1-85e5-36fdbe9efdcf" width="20%" />
-  <img src="https://github.com/user-attachments/assets/f0fae7f2-5904-4352-9cce-2c056961e574" width="20%" />
-  <img src="https://github.com/user-attachments/assets/b37f82b7-c2a5-42f1-8eb0-6fe83f3c357b" width="20%" />
+  <img src="" width="20%" />
+  <img src="" width="20%" />
+  <img src="" width="20%" />
+  <img src="" width="20%"/>
+  <img src="" width="20%" />
 </p>
 
 ## Used Dependencies 
