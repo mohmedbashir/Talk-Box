@@ -1,4 +1,4 @@
-
+![ic_launcher](https://github.com/user-attachments/assets/c31f3bb4-fa0e-4580-9e57-535453425c23)
 
 # Talk Box
 
