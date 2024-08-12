@@ -12,7 +12,6 @@ Is a mobile application developed using Flutter and follows the **MVC** architec
 * **Social Interaction**: Users can add friends and engage with them through text messages, videos, pictures, and audio.
 * **Voice and Video Calls**: Includes features for voice and video calls.
 
-
 ## Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/27623ab5-e9e1-4b9e-80f8-ec190099a970" width="15%" />
@@ -29,16 +28,16 @@ Is a mobile application developed using Flutter and follows the **MVC** architec
   <img src="https://github.com/user-attachments/assets/3385f582-1282-4415-a7df-880f4dae54b4" width="15%" />
 </p>
 <p align="center">
-  <img src="" width="15%" />
-  <img src="" width="15%" />
-  <img src="" width="15%" />
-  <img src="" width="15%"/>
-  <img src="" width="15%" />
+  <img src="https://github.com/user-attachments/assets/0ceaee69-84be-4477-bc58-18a5b0dea8ed" width="15%" />
+  <img src="https://github.com/user-attachments/assets/bec695b9-331b-4601-8863-a5cb6f4f7d88" width="15%" />
+  <img src="https://github.com/user-attachments/assets/b8c1865e-de41-45c7-9188-0b3a47b3727f" width="15%" />
+  <img src="https://github.com/user-attachments/assets/0ce37fd0-8102-45d5-a1da-6d05598e237d" width="15%"/>
+  <img src="https://github.com/user-attachments/assets/c2857d0b-6cac-496d-8bd5-2d9a2c2903d3" width="15%" />
 </p>
 <p align="center">
-  <img src="" width="15%" />
-  <img src="" width="15%" />
-  <img src="" width="15%" />
+  <img src="https://github.com/user-attachments/assets/55db60c4-c9ea-4e64-a04c-a82d3971397a" width="15%" />
+  <img src="https://github.com/user-attachments/assets/7266720c-7356-4901-8da6-9ffe620f2c98" width="15%" />
+
 </p>
 
 ## Used Dependencies 
