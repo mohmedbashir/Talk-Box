@@ -12,6 +12,9 @@ Is a mobile application developed using Flutter and follows the **MVC** architec
 * **Social Interaction**: Users can add friends and engage with them through text messages, videos, pictures, and audio.
 * **Voice and Video Calls**: Includes features for voice and video calls.
 
+## Screen recording
+https://www.youtube.com/watch?v=0vmUyEoLoEE
+
 ## Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/27623ab5-e9e1-4b9e-80f8-ec190099a970" width="15%" />
@@ -37,7 +40,6 @@ Is a mobile application developed using Flutter and follows the **MVC** architec
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7266720c-7356-4901-8da6-9ffe620f2c98" width="15%" />
   <img src="https://github.com/user-attachments/assets/55db60c4-c9ea-4e64-a04c-a82d3971397a" width="15%" />
-
 </p>
 
 ## Used Dependencies 
